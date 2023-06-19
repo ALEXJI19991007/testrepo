@@ -1,0 +1,2 @@
+This is test branch 2.
+This is test branch 2. Squash commits test.
